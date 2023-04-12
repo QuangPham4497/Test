@@ -9,7 +9,7 @@ function App() {
     <div className="wrapper">
       <Header />
       <Main />
-      Nguyen DInh Luan 123456
+      Nguyen DInh Luan 123456789
       <Footer />
       {name} - {className}
     </div>
